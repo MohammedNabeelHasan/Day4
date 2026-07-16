@@ -1,2 +1,1 @@
-print('Hello Git')
-c = a + b
+print('GitHub has been synchronised')
